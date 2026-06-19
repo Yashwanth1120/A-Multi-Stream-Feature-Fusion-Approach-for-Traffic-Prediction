@@ -1,0 +1,39 @@
+Service Provider
+
+Login,
+Browse and Train & Test Traffic Data Sets, 
+View Traffic Data Sets Trained and Tested Accuracy in Bar Chart V,
+View Traffic Data Sets Trained and Tested Accuracy Results, 
+View Prediction Of Traffic Type View Traffic, 
+Prediction Type Ratio Download Predicted Data Sets, 
+View Traffic Predicted Ratio Results, 
+View All Remote Users.
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT TRAFFIC TYPE,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+
+TRAFFIC_DATE,
+TRAFFIC_TIME,
+BOROUGH,
+ZIP_CODE,
+LATITUDE,
+LONGITUDE,
+LOCATION,
+ON_STREET_NAME,
+CROSS_STREET_NAME,
+OFF_STREET_NAME,
+CONTRIBUTING_FACTOR_VEHICLE,
+REFERENCE_ID,
+TRAFFIC_VEHICLE_TYPE_CODE1,
+TRAFFIC_VEHICLE_TYPE_CODE2,
+Junction,
+Prediction.
